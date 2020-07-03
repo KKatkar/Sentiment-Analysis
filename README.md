@@ -1,2 +1,2 @@
-# ML-engineer-sentiment-analysis
-Web app to analyse sentiment using AWS Sagemaker model
+# ML-engineer-nano-degree
+Projects to create learning models using PyTorch and AWS Sagemaker instances
