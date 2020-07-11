@@ -1,5 +1,5 @@
 # ML-Engineer-NanoDegree
-Projects to create learning models using PyTorch and AWS Sagemaker instances
+Projects to create and deploy learning models using PyTorch and AWS Sagemaker instances
 
 1. _Sentiment Analysis_
 
